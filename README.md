@@ -1,7 +1,6 @@
 **iOS Weather & Touristic Application**
 
-**Description:**
-As part of my coursework for the Mobile Native Development module, I developed a SwiftUI-based tourist utility app that provides real-time weather information and highlights tourist attractions on a map. This project demonstrates my technical skills in mobile app development and my commitment to creating practical, user-friendly applications. 
+As part of the coursework for the Mobile Native Development module, I developed a SwiftUI-based tourist utility app that provides real-time weather information and highlights tourist attractions on a map. This project demonstrates my technical skills in ios app development and my commitment to creating practical, user-friendly applications with external API integration. 
 
 **Key Features:**
 - **Current Weather Display:** Displays current weather conditions for specified locations using the OpenWeatherMap API, with the initial display set to London.
