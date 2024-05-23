@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Colosseum",
+        "cityName": "Rome",
+        "latitude": 41.8902,
+        "longitude": 12.4922,
+        "description": "The Colosseum is an oval amphitheatre...",
+        "imageNames": [
+            "rome-colosseum-1",
+            "rome-colosseum-2",
+            "rome-colosseum-3"
+        ],
+        "link": "https://en.wikipedia.org/wiki/Colosseum"
+    },
+    {
+        "name": "Pantheon",
+        "cityName": "Rome",
+        "latitude": 41.8986,
+        "longitude": 12.4769,
+        "description": "The Pantheon is a former Roman temple...",
+        "imageNames": [
+            "rome-pantheon-1",
+            "rome-pantheon-2",
+            "rome-pantheon-3"
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+    },
+    {
+        "name": "Trevi Fountain",
+        "cityName": "Rome",
+        "latitude": 41.9009,
+        "longitude": 12.4833,
+        "description": "The Trevi Fountain is a fountain in the Trevi district...",
+        "imageNames": [
+            "rome-trevifountain-1",
+            "rome-trevifountain-2",
+            "rome-trevifountain-3"
+        ],
+        "link": "https://en.wikipedia.org/wiki/Trevi_Fountain"
+    },
+    {
+        "name": "Eiffel Tower",
+        "cityName": "Paris",
+        "latitude": 48.8584,
+        "longitude": 2.2945,
+        "description": "The Eiffel Tower is a wrought-iron lattice tower...",
+        "imageNames": [
+            "paris-eiffeltower-1",
+            "paris-eiffeltower-2"
+        ],
+        "link": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+    },
+    {
+        "name": "Louvre Museum",
+        "cityName": "Paris",
+        "latitude": 48.8606,
+        "longitude": 2.3376,
+        "description": "The Louvre, or the Louvre Museum, is the world's most-visited museum...",
+        "imageNames": [
+            "paris-louvre-1",
+            "paris-louvre-2",
+            "paris-louvre-3"
+        ],
+        "link": "https://en.wikipedia.org/wiki/Louvre"
+    },
+    {
+        "name": "Tower of London",
+        "cityName": "London",
+        "latitude": 51.5081,
+        "longitude": -0.0759,
+        "description": "The Tower of London is a historic castle on the north bank of the River Thames...",
+        "imageNames": [
+            "london-tower-1",
+            "london-tower-2",
+            "london-tower-3"
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tower_of_London"
+    },
+    {
+        "name": "British Museum",
+        "cityName": "London",
+        "latitude": 51.5194,
+        "longitude": -0.1270,
+        "description": "The British Museum is one of the world's most comprehensive museums with a vast collection of art and artifacts...",
+        "imageNames": [
+            "london-museum-1",
+            "london-museum-2"
+
+        ],
+        "link": "https://en.wikipedia.org/wiki/British_Museum"
+    },
+    {
+        "name": "Statue of Liberty",
+        "cityName": "New York",
+        "latitude": 40.6892,
+        "longitude": -74.0445,
+        "description": "The Statue of Liberty is an iconic symbol of freedom and democracy...",
+        "imageNames": [
+            "ny-statueofliberty-1",
+            "ny-statueofliberty-2",
+            "ny-statueofliberty-3"
+        ],
+        "link": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+    },
+    {
+        "name": "Central Park",
+        "cityName": "New York",
+        "latitude": 40.7851,
+        "longitude": -73.9683,
+        "description": "Central Park is an expansive urban park in the heart of Manhattan...",
+        "imageNames": [
+            "ny-centralpark-1",
+            "ny-centralpark-2",
+            "ny-centralpark-3"
+        ],
+        "link": "https://en.wikipedia.org/wiki/Central_Park"
+    }
+]
