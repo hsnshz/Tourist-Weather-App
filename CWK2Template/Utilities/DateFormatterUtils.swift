@@ -72,12 +72,6 @@ class DateFormatterUtils {
         return dateFormatter.string(from: Date(timeIntervalSince1970: timestamp))
     }
 
-//    static func formattedDateTime(from timestamp: TimeInterval) -> String {
-//            let dateFormatter = DateFormatter()
-//            dateFormatter.dateFormat = "d MMM yyyy 'at' ha"
-//            return dateFormatter.string(from: Date(timeIntervalSince1970: timestamp))
-//        }
-
     static func formattedDateTime(from timestamp: TimeInterval, timezoneOffset: Int) -> String {
         let dateFormatter = DateFormatter()
         dateFormatter.dateFormat = "d MMM yyyy 'at' ha"
